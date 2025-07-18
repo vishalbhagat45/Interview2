@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 699,
+    "description": "Compact and ergonomic wireless mouse.",
+    "image": "https://via.placeholder.com/300x200.png?text=Mouse"
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "price": 2499,
+    "description": "High-quality mechanical keyboard with RGB.",
+    "image": "https://via.placeholder.com/300x200.png?text=Keyboard"
+  },
+  {
+    "id": 3,
+    "name": "Laptop Stand",
+    "price": 999,
+    "description": "Aluminum stand for laptops of all sizes.",
+    "image": "https://via.placeholder.com/300x200.png?text=Stand"
+  },
+  {
+    "id": 4,
+    "name": "USB-C Hub",
+    "price": 1499,
+    "description": "Multiport USB-C hub for all your connectivity needs.",
+    "image": "https://via.placeholder.com/300x200.png?text=USB+Hub"
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "price": 1999,
+    "description": "Portable speaker with excellent sound quality.",
+    "image": "https://via.placeholder.com/300x200.png?text=Speaker"
+  },
+  {
+    "id": 6,
+    "name": "Webcam",
+    "price": 1299,
+    "description": "HD webcam with noise reduction mic.",
+    "image": "https://via.placeholder.com/300x200.png?text=Webcam"
+  },
+  {
+    "id": 7,
+    "name": "Desk Lamp",
+    "price": 499,
+    "description": "LED desk lamp with adjustable brightness.",
+    "image": "https://via.placeholder.com/300x200.png?text=Lamp"
+  }
+]
